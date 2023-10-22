@@ -1,4 +1,4 @@
-POST http://localhost:3333/videos
+POST http://node-zero-jt4o.onrender.com/videos
 Content-Type: application/json
 
 
@@ -10,11 +10,11 @@ Content-Type: application/json
 
 ###
 
-GET http://localhost:3333/videos
+GET http://node-zero-jt4o.onrender.com/videos
 
 ###
 
-PUT http://localhost:3333/videos
+PUT http://node-zero-jt4o.onrender.com/videos
 Content-Type: application/json
 
 
@@ -26,4 +26,4 @@ Content-Type: application/json
 
 ###
 
-DELETE http://localhost:3333/videos/7104d76a-8abb-4256-a245-752fadd0dfdc
+DELETE http://node-zero-jt4o.onrender.com/videos/7104d76a-8abb-4256-a245-752fadd0dfdc
